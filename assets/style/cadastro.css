@@ -1,0 +1,16 @@
+form {
+    width: 70%;
+    
+
+    margin: auto;
+}
+
+fieldset {
+    padding: 30px 30px;
+    
+}
+
+legend {
+    font-family: "Satisfy", cursive;
+    font-size: 30px;
+}
